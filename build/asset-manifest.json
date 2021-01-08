@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/my_cv/static/css/main.f03eb9d7.chunk.css",
-    "main.js": "/my_cv/static/js/main.5771023a.chunk.js",
-    "main.js.map": "/my_cv/static/js/main.5771023a.chunk.js.map",
-    "runtime-main.js": "/my_cv/static/js/runtime-main.42ec9db9.js",
-    "runtime-main.js.map": "/my_cv/static/js/runtime-main.42ec9db9.js.map",
-    "static/css/2.1a02f21c.chunk.css": "/my_cv/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.3afaf792.chunk.js": "/my_cv/static/js/2.3afaf792.chunk.js",
-    "static/js/2.3afaf792.chunk.js.map": "/my_cv/static/js/2.3afaf792.chunk.js.map",
-    "index.html": "/my_cv/index.html",
-    "static/css/2.1a02f21c.chunk.css.map": "/my_cv/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.f03eb9d7.chunk.css.map": "/my_cv/static/css/main.f03eb9d7.chunk.css.map",
-    "static/js/2.3afaf792.chunk.js.LICENSE.txt": "/my_cv/static/js/2.3afaf792.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/my_cv/static/media/Casanova.74ee51e5.ttf",
-    "static/media/avatar.eaa3463e.jpg": "/my_cv/static/media/avatar.eaa3463e.jpg"
+    "main.css": "/my-cv/static/css/main.e835dcd7.chunk.css",
+    "main.js": "/my-cv/static/js/main.16719a0e.chunk.js",
+    "main.js.map": "/my-cv/static/js/main.16719a0e.chunk.js.map",
+    "runtime-main.js": "/my-cv/static/js/runtime-main.9a2bbef2.js",
+    "runtime-main.js.map": "/my-cv/static/js/runtime-main.9a2bbef2.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/my-cv/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.d8937fec.chunk.js": "/my-cv/static/js/2.d8937fec.chunk.js",
+    "static/js/2.d8937fec.chunk.js.map": "/my-cv/static/js/2.d8937fec.chunk.js.map",
+    "index.html": "/my-cv/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/my-cv/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.e835dcd7.chunk.css.map": "/my-cv/static/css/main.e835dcd7.chunk.css.map",
+    "static/js/2.d8937fec.chunk.js.LICENSE.txt": "/my-cv/static/js/2.d8937fec.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my-cv/static/media/Casanova.74ee51e5.ttf",
+    "static/media/avatar.eaa3463e.jpg": "/my-cv/static/media/avatar.eaa3463e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.42ec9db9.js",
-    "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.3afaf792.chunk.js",
-    "static/css/main.f03eb9d7.chunk.css",
-    "static/js/main.5771023a.chunk.js"
+    "static/js/runtime-main.9a2bbef2.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.d8937fec.chunk.js",
+    "static/css/main.e835dcd7.chunk.css",
+    "static/js/main.16719a0e.chunk.js"
   ]
 }
