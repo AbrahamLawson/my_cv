@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-cv/static/css/main.e835dcd7.chunk.css",
+    "main.js": "/my-cv/static/js/main.16719a0e.chunk.js",
+    "main.js.map": "/my-cv/static/js/main.16719a0e.chunk.js.map",
+    "runtime-main.js": "/my-cv/static/js/runtime-main.9a2bbef2.js",
+    "runtime-main.js.map": "/my-cv/static/js/runtime-main.9a2bbef2.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/my-cv/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.d8937fec.chunk.js": "/my-cv/static/js/2.d8937fec.chunk.js",
+    "static/js/2.d8937fec.chunk.js.map": "/my-cv/static/js/2.d8937fec.chunk.js.map",
+    "index.html": "/my-cv/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/my-cv/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.e835dcd7.chunk.css.map": "/my-cv/static/css/main.e835dcd7.chunk.css.map",
+    "static/js/2.d8937fec.chunk.js.LICENSE.txt": "/my-cv/static/js/2.d8937fec.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my-cv/static/media/Casanova.74ee51e5.ttf",
+    "static/media/avatar.eaa3463e.jpg": "/my-cv/static/media/avatar.eaa3463e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a2bbef2.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.d8937fec.chunk.js",
+    "static/css/main.e835dcd7.chunk.css",
+    "static/js/main.16719a0e.chunk.js"
+  ]
+}
